@@ -5,7 +5,7 @@ Module PrestaShop d'optimisation de la vitesse de la boutique en ligne, compatib
 ## Fonctionnalités
 
 - **Diagnostic automatique** via l'API Google PageSpeed Insights
-- **Recommandations personnalisées** générées par l'API Claude (Anthropic), avec sélection manuelle des optimisations à appliquer
+- **Recommandations personnalisées** générées par l'API Claude (OpenRouter), avec sélection manuelle des optimisations à appliquer
 - **Conversion des images en WebP** (conversion en masse du catalogue, régénération depuis le dossier `img`)
 - **Activation du cache navigateur** (règles `.htaccess`)
 - **Activation du cache Smarty et compression CSS/JS/HTML**
